@@ -82,7 +82,7 @@ python3 --version
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/shelldrop.git
+git clone https://github.com/kishwordulal1234/ShellDrop.git
 
 # Navigate to directory
 cd shelldrop
