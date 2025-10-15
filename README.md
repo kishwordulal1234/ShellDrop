@@ -1,6 +1,5 @@
 # 🎯 ShellDrop v1.0 Beta
-# plse this is beta i am working on fixing the window payload  till now they payload is working upto window 10  if u face any issu in window 11 
-#plase dont raise any issu window payload may not work perfectly in beta
+# plse this is beta i am working on fixing the window payload  till now they payload is working upto window 10  if u face any issu in window 11 plase dont raise any issu window payload may not work perfectly in beta
 
 <div align="center">
 
