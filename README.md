@@ -85,7 +85,8 @@ python3 --version
 git clone https://github.com/kishwordulal1234/ShellDrop.git
 
 # Navigate to directory
-cd shelldrop
+cd ShellDrop
+
 
 # Make executable (Linux/Mac)
 chmod +x shelldrop.py
